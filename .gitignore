@@ -1,2 +1,4 @@
+#ignor
 node_modules/
 package.json
+out/
